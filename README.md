@@ -9,6 +9,7 @@ When creating the headlight subsystem, the first thing we did was make is so tha
 We used Kye's Project 1 code which can be found here: [https://github.com/kaitophuc/ECE-218/tree/main]
 
 ### Sumary of Testing Results:
+Everything in the project worked as it should, initially in the testing phase we had some problems keeping the engine running when someone took their seatbelt off, or exited their seat. But overall, everything worked properly for the demonstration.
 <img width="483" alt="Screenshot 2025-02-01 at 12 16 41 PM" src="https://github.com/user-attachments/assets/a16b4f69-2110-4146-a120-b630600d02bc" />
-<img width="492" alt="Screenshot 2025-02-01 at 12 16 48 PM" src="https://github.com/user-attachments/assets/1c43dc2e-0f3e-4b60-ac4d-e27075171e1a" />
+<img width="636" alt="Screenshot 2025-02-01 at 12 29 02 PM" src="https://github.com/user-attachments/assets/2277de1f-6b01-4f05-90ef-13f26f8a8abd" />
 <img width="568" alt="Screenshot 2025-02-01 at 12 14 51 PM" src="https://github.com/user-attachments/assets/2e700eb9-11bc-4186-ba3f-b7c3aae573da" />
