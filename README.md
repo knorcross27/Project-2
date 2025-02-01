@@ -8,7 +8,7 @@ When creating the headlight subsystem, the first thing we did was make is so tha
 ### Starting Repository:
 We built upon Kye's Project 1 code which can be found here: [https://github.com/kaitophuc/ECE-218/tree/main]
 
-### Sumary of Testing Results:
+### Summary of Testing Results:
 Everything in the project worked as it should, initially in the testing phase we had some problems keeping the engine running when someone took their seatbelt off, or exited their seat. But overall, everything worked properly for the demonstration.
 
 Table 1: Ignition Subsystem Testing Results
